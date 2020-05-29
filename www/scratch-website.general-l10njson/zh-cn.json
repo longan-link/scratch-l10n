@@ -259,7 +259,7 @@
     "report.tooShortError": "内容有点短哦，请详细描述你举报的原因以便我们更快速地处理你的诉求。",
     "report.send": "发送",
     "report.sending": "正在发送……",
-    "report.textMissing": "请说明你为何举报该作品",
+    "report.textMissing": "请说明你为何举报该作品，帮助我们理解你的诉求。",
     "comments.delete": "删除",
     "comments.restore": "恢复",
     "comments.reportModal.title": "举报评论",
