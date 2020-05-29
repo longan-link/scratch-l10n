@@ -246,7 +246,7 @@
     "report.receivedHeader": "我们已经收到了你的举报！",
     "report.receivedBody": "非常感谢你为维护龙眼社区良好氛围做出的贡献，\n我们的运营团队将会尽快对你提交的内容做出审核并处理。",
     "report.receivedBody1": "我们非常重视你的体验，如果你对于龙眼平台本身有一些意见或建议，\n可以点击右上角的“头像”，在下拉菜单中选择“我要反馈”。",
-    "report.promptPlaceholder": "请在上面选择原因。",
+    "report.promptPlaceholder": "请先选择一个举报原因，帮助我们更好地理解当前内容为何让你感到不适",
     "report.promptCopy": "请提供原作品的标题，如果可以提供链接就更好了",
     "report.promptUncredited": "请说明具体是哪部分内容未获授权，以及版权方的链接或联系方式",
     "report.promptScary": "请告诉我们为什么你觉得作品过于暴力或恐怖",
