@@ -105,7 +105,7 @@
     "general.username": "用户名",
     "general.password": "密码",
     "general.signIn": "登录",
-    "login.needHelp": "需要帮助？",
+    "login.needHelp": "忘记密码",
     "form.validationRequired": "必填字段",
     "gui.menuBar.LanguageSelector": "语言菜单",
     "gui.menuBar.tutorialsLibrary": "教程",
