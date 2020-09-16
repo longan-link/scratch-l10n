@@ -1,6 +1,6 @@
 {
     "name": "@longan-link/scratch-l10n",
-    "version": "3.7.0",
+    "version": "longan",
     "description": "Localization for the Scratch 3.0 components",
     "main": "./dist/l10n.js",
     "browser": "./src/index.js",
