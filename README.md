@@ -1,3 +1,4 @@
+# 该项目已于 2023 年 3月 14日 正式停止使用，如有提交需求，请前往 gitlab 进行提交和维护。
 # scratch-l10n
 
 Translation of all Scratch projects is managed on the Transifex service: https://www.transifex.com/llk/public
